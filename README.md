@@ -18,16 +18,16 @@ To streamline event descriptions and simplify relevent communication, I develope
 Further analysis of event types and processes highlighted inefficiencies in raid organization. Instead of players arriving at different locations within the park, I implemented a centralized meeting point and standardized event procedures to maximize efficiency and player participation. I created visual maps using in-game Points of Interest (POIs) and shared them on Campfire, clearly indicating meeting locations and event expectations.
 
 ## Exploratory Data Analysis: 
-Which type of events are most popular based on check-in data?
-- Gigantamax events have the highest average check-ins (31).
-What event type has the most total check-ins overall?
-- Community Day events lead with 78 check-ins, followed by Max Mondays with 75.
-What day of the week is most popular based on average check-ins?
-- Max Monday events have the highest average check-in rate, likely due to the draw of the Legendary Trio Birds.
-What were the top 5 community events so far?
-- The most popular events were Gigantamax Kingler (33 check-ins), Gigantamax Lapras (31), Shadow Ho-Oh (27), Articuno Max Monday (27), and Zapdos Max Monday (25).
-Of the three factions (Mystic, Valor, Instinct), which is the most popular using Max Monday data?
-- Mystic is the most popular faction based on participation at Max Monday events.
+- Which type of events are most popular based on check-in data?
+  - Gigantamax events have the highest average check-ins (31).
+- What event type has the most total check-ins overall?
+  - Community Day events lead with 78 check-ins, followed by Max Mondays with 75.
+- What day of the week is most popular based on average check-ins?
+  - Max Monday events have the highest average check-in rate, likely due to the draw of the Legendary Trio Birds.
+- What were the top 5 community events so far?
+  - The most popular events were Gigantamax Kingler (33 check-ins), Gigantamax Lapras (31), Shadow Ho-Oh (27), Articuno Max Monday (27), and Zapdos Max Monday (25).
+- Of the three factions (Mystic, Valor, Instinct), which is the most popular using Max Monday data?
+  - Mystic is the most popular faction based on participation at Max Monday events.
 
 ## Conclusion:
 This project successfully demonstrates the practical application of the skills and knowledge acquired during the ASU Applied Business Data Analytics Certificate program. By addressing the lack of an organized Pokémon GO presence in Buckeye, Arizona, the project showcases the ability to leverage data analytics to build and grow a thriving community.
