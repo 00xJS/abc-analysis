@@ -13,7 +13,7 @@ My initial observations within the pre-existing community revealed a lack of con
 
 A key improvement was the proactive scheduling of events as soon as information became available. Previously, events were often planned only one to three days in advance, limiting the ability of players with family or other commitments to participate. Pre-scheduling provided ample lead time for planning.
 
-To streamline event descriptions and simplify relevent communication, I developed a standardized format using the "[Sundance dGen](https://github.com/00xJS/sundance-dgen)" This ensured consistency and clarity in event information.
+To streamline event descriptions and simplify relevent communication, I developed a standardized format using the "[Sundance deGen](https://github.com/00xJS/sundance-dgen)" This ensured consistency and clarity in event information.
 
 Further analysis of event types and processes highlighted inefficiencies in raid organization. Instead of players arriving at different locations within the park, I implemented a centralized meeting point and standardized event procedures to maximize efficiency and player participation. I created visual maps using in-game Points of Interest (POIs) and shared them on Campfire, clearly indicating meeting locations and event expectations.
 
